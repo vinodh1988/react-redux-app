@@ -1,0 +1,21 @@
+#container{
+    width: 100%;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+
+#main-area{
+    width: 70%;
+    background-color: rgb(248, 245, 245);
+    border-right: 2px solid rgb(209, 209, 212);
+    float: left;
+    min-height: 800px;
+}
+
+
+#right-bar{
+    width: 30%;
+    background-color: rgb(78, 77, 77);
+    float: left;
+    min-height: 800px;
+}
